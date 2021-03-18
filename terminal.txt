@@ -1,2 +1,4 @@
 >> export FLASK_APP=app2.py
 >> flask run
+
+videos 7 y 8 de la primer carpeta
