@@ -5,3 +5,4 @@ videos 7 y 8 de la primer carpeta
 
 
 https://medium.com/@nguyenkims/python-decorator-and-flask-3954dd186cda
+https://ains.co/blog/things-which-arent-magic-flask-part-1.html
